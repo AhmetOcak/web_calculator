@@ -1,6 +1,6 @@
 // Mathematics Functions
 function plusN(x1, x2) {
-   return (Number(x1) + Number(x2));
+    return (Number(x1) + Number(x2));
 }
 
 function minusN(x1, x2) {
